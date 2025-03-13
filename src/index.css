@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@theme {
+    --bg-light-blue: #F4FEFF;
+    --forget-password: #02607E;
+    --text-color: #444B59;
+    --text-box-stroke-color: #789ADE;
+    --bg-off-white: #FAFAFA;
+    --our-values: #214169;
+    --bg-our-values: #61ADF8;
+    --services: #323232;
+
+    --main: #5DD9F2;
+    --white: #FFFFFF;
+    --black: #000000;
+    --gray: #7A7A7A;
+    --prototype: #EDA0A010;
+    --dm-serif:"DM Serif Display", serif;
+    --button:#0081FE;
+    --light-blue:#56E0E0;
+}
