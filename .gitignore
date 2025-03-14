@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# 🔹 Python (Backend)
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Vercel และ Build Output
+.vercel/
+.vercel_build_output/
+dist/
+out/
+
+
